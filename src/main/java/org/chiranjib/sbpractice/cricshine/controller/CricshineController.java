@@ -16,6 +16,6 @@ public class CricshineController {
 	
 	@GetMapping("/cricketers")
 	public List<Player> retrieveAllCricketers() {
-		return cricshineService.retrieveAllCricketers();
+		return cricshineService.retrieveAllCricketers();  
 	}
 }
