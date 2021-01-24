@@ -10,4 +10,4 @@ phases:
 artifacts:
   discard-paths: yes
   files:
-  - target/cricshine-service-dev.war
+  - target/cricshine-service-v1.war
