@@ -8,6 +8,8 @@ import org.chiranjib.sbpractice.cricshine.service.CricshineService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+/*This class is for getting all
+ *  crocketer values*/
 @Service
 public class cricshineServiceImpl implements CricshineService{
 	
